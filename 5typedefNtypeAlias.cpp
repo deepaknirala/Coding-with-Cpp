@@ -1,5 +1,6 @@
 #include <iostream>
 
+
 //typedef is used to create an alias for a type.
 //It is often used to simplify complex type declarations or 
 //to create more meaningful names for types.
