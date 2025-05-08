@@ -7,11 +7,22 @@ int main() {
   //integer 
   int y=7; //declaration and initialization
   int sum=x+y; //sum of x and y
+/*
+  //long
+  long y1=1234567890;
+  //long long
+  long long y2=1234567890123456789;
+  //short
+  short y3=32767;
+  //unsigned int
+  unsigned int y4=4294967295;
+*/
 
-  //double
+  //float , double
   double price=10.99;
-  double gpa=2.5;
+  float gpa=2.5;
   double temp=25.1;
+  std::cout<<"Value of price is: "<<price<<'\n';
 
   //single character
   char grade='A';
