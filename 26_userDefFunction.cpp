@@ -4,7 +4,7 @@
 //function is a block of reusable code that performs a specific task
 // we have to declare function before main() if we call it in main
 //& we may define it after main
-
+//-------------------------------------------------------
 //OR simply we can declare n define it before main
 //-------------------------------------------------------
 void happyBirthday(string name, int age); //funtion declaration
