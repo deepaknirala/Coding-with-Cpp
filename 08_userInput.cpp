@@ -12,7 +12,10 @@ int main(){
   std::cout<<"What's your full name? ";
   std::getline(std::cin, name); // taking full name input from user
   // std::getline is used to take input with spaces in between.
-  
+  //syntax: getline(input_stream, string_variable, delimiter);
+  //string_variable is the variable in which we want to store the input.
+  //delimiter(optional) is used to specify the end of input. by default it is '\n'.
+
   /* std::getline(std::cin >>std::ws, name); 
   std::ws is used to ignore any whitespace character before user any input
   */
