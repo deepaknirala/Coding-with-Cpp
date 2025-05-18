@@ -20,3 +20,6 @@ int main() {
   }
   return 0;
 }
+//if we comment out line 11 & try to dereference a null pointer(activate line 15)
+//it will lead to undefined behavior i.e. program crash
+//or segmentation fault 
