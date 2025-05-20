@@ -59,7 +59,7 @@ Some of the mini-projects included in this repo are:
 
 You can compile and run any file using a C++ compiler like `g++`.
 
-👨‍🏫 For Learners
+👨‍🏫 For Learners  
 This repo is ideal for:
 
 Beginners looking to learn or revise C++
