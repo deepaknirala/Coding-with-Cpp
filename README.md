@@ -66,9 +66,9 @@ Beginners looking to learn or revise C++
 
 Anyone wanting a reference of concept-based example codes
 
-✅ Status
-✔️ All major C++ concepts covered
-📝 No longer being updated — archived as a helpful resource for learners and self-revision
+✅ Status  
+✔️ All major C++ concepts covered  
+📝 No longer being updated — archived as a learning resource    
 
 ---
 
@@ -76,7 +76,7 @@ Anyone wanting a reference of concept-based example codes
 
 This repository was inspired by the excellent tutorials from the [BroCode YouTube channel](https://www.youtube.com/c/BroCodez). A big thanks for providing such clear and beginner-friendly explanations!
 
-If you’d like me to personally tutor you on these C++ topics, feel free to reach out! I’d be happy to teach you.
+If you’d like me to personally tutor you on these C++ topics, feel free to reach out! I’d be happy to teach you—for free.  
 📩 Contact: deepaknirala2022 [at] gmail [dot] com
 
 Feel free to fork or clone this repo and use it for your own learning journey!
