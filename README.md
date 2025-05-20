@@ -41,7 +41,7 @@ The programs are organized by concept and demonstrate a wide range of C++ featur
   `13_CalculatorProject.cpp`, `16_TemperatureConversion.cpp`, `23_RandomNumberGenerator.cpp`, `24_RandomEventGenerator.cpp`, `25_NumbersGuessingGame.cpp`, `30_BankingTransaction.cpp`, `31_RockPaperScissorsGame.cpp`, `42_QuizGame.cpp`, `46_CreditCardValidator.cpp`
 
 - **Miscellaneous / Utility Features**  
-  `49_ExtraConcept.cpp` *(if exists later)*, `...` *(future expansion)*
+   *(if exists later)*, `...` *(future expansion)*
 
 
 This structure helps beginners follow a logical progression from basics to advanced topics while making some small projects during the learning.  
